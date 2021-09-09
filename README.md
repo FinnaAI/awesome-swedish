@@ -19,6 +19,7 @@ A curated list of awesome resources for Swedish language processing.
 
 ## Datasets
 
+- [stopwords-sv](https://github.com/stopwords-iso/stopwords-sv) List of stop words for Swedish
 - [Swedish Treebank](https://cl.lingfil.uu.se/~nivre/swedish_treebank/)
 - [SpråkbankenText](https://spraakbanken.gu.se/eng/about-us/about-språkbanken) List of various corpus and lexicons in the Swedish language. 
 - [Swedish Language Data Lab](www.ai.se/en/news/new-nlp-project-improve-linguistic-understanding-swedish-ai-applications)  - *A work in progress*.
