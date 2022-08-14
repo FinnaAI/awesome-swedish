@@ -18,6 +18,7 @@ A curated list of awesome resources for Swedish language processing.
 - [SweBERT](https://github.com/af-ai-center/SweBERT): Arbetsförmedlingen's Swedish BERT models
 - [Bert](https://github.com/google-research/bert) Swedish among other 101 languages is available for download. 
 - [Lemmy](https://github.com/sorenlind/lemmy) 🤘Lemmy is a lemmatizer for Danish 🇩🇰 and Swedish 🇸🇪
+- [Deplacy](https://github.com/KoichiYasuoka/deplacy/blob/master/doc/sv.md) CUI-based Tree Visualizer for Universal Dependencies and Immediate Catena Analysis
 
 ## Datasets
 
