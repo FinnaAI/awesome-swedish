@@ -15,6 +15,7 @@ A curated list of awesome resources for Swedish language processing.
 - [Fasttext pre-trained vectors](https://fasttext.cc/docs/en/pretrained-vectors.html)
 - [Swedish Spacy](https://github.com/Kungbib/swedish-spacy): trained model by KB. Has NER support.
 - [Spacy](https://spacy.io/usage/models#languages): Supports the Swedish language. Basic language data (stop words, tag maps, morph rules, lemmatization) are, but no model is trained on them (still can be used for basic tasks).
+- [SweBERT](https://github.com/af-ai-center/SweBERT): Arbetsförmedlingen's Swedish BERT models
 - [Bert](https://github.com/google-research/bert) Swedish among other 101 languages is available for download. 
 - [Lemmy](https://github.com/sorenlind/lemmy) 🤘Lemmy is a lemmatizer for Danish 🇩🇰 and Swedish 🇸🇪
 
